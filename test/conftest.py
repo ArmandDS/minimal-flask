@@ -11,5 +11,4 @@ def host(request):
 
 @pytest.fixture(scope="session")
 def api_v1_host(host):
-    # return os.path.join(host, "api", "v1")
     return host +"/api/v1"

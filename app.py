@@ -2,7 +2,6 @@
 
 # load libaries
 from flask import Flask, jsonify
-import sys
 
 # load modules
 from endpoints.producto import producto
