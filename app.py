@@ -1,6 +1,6 @@
 """Flask Application"""
 
-# load libaries
+# load libraries
 from flask import Flask, jsonify
 
 # load modules
