@@ -6,3 +6,7 @@ The following features are included in the application:
 * Usage of endpoint blueprints
 * Automated endpoint tests via pytest
 * API documentation using the OpenAPI 3 specification and Swagger UI
+
+TODO
+
+* Database integration
