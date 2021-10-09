@@ -10,3 +10,4 @@ The following features are included in the application:
 TODO
 
 * Database integration
+* Auth integration
